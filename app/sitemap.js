@@ -1,24 +1,24 @@
-// export default function sitemap() {
-//     return [
-//       {
-//         url: 'https://zakariaeazarkan.vercel.app/',
-//         lastModified: new Date(),
-//       },
-//       {
-//         url: 'https://zakariaeazarkan.vercel.app/about',
-//         lastModified: new Date(),
-//       },
-//       {
-//         url: 'https://zakariaeazarkan.vercel.app/portfolio',
-//         lastModified: new Date(),
-//       },
-//       {
-//         url: 'https://zakariaeazarkan.vercel.app/services',
-//         lastModified: new Date(),
-//       },
-//       {
-//         url: 'https://zakariaeazarkan.vercel.app/contact',
-//         lastModified: new Date(),
-//       },
-//     ]
-//   }
+export default function sitemap() {
+    return [
+      {
+        url: 'https://vercel.com/johinthampi97/',
+        lastModified: new Date(),
+      },
+      {
+        url: 'https://vercel.com/johinthampi97/about',
+        lastModified: new Date(),
+      },
+      {
+        url: 'https://vercel.com/johinthampi97/portfolio',
+        lastModified: new Date(),
+      },
+      {
+        url: 'https://vercel.com/johinthampi97/services',
+        lastModified: new Date(),
+      },
+      {
+        url: 'https://vercel.com/johinthampi97/contact',
+        lastModified: new Date(),
+      },
+    ]
+  }
